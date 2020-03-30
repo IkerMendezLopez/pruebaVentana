@@ -10,6 +10,7 @@ public class Ciclo {
 	}
 
 	public String getNombre() {
+		System.out.println("prueba");
 		return nombre;
 	}
 
